@@ -18,7 +18,7 @@ export class App implements AfterViewInit {
     
     { label: 'iPhone', backgroundColor: '#e91e63' ,image: 'iphone.png',imageScale : .2},
     { label: 'AirPods', backgroundColor: '#2196f3',image: 'airpods.png',imageScale : .2},
-    { label: '999 999$', backgroundColor: '#cac82bff',image: 'discount.png',imageScale : .2 },
+    { label: '1 000 000$', backgroundColor: '#cac82bff',image: 'discount.png',imageScale : .2 },
     { label: 'PowerBank', backgroundColor: '#4caf50' ,image: 'powerbank.png',imageScale : .2 },
     { label: 'Discount 5%', backgroundColor: '#ff9800',image: 'discount.png',imageScale : .2 },
     

@@ -1,0 +1,58 @@
+{
+  "hash": "8080d09a",
+  "configHash": "e9cc74d2",
+  "lockfileHash": "e0253153",
+  "browserHash": "5cd33119",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "c6552e49",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "0cf82662",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "a7df3f24",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "c3595436",
+      "needsInterop": false
+    },
+    "spin-wheel-ts": {
+      "src": "../../../../../../node_modules/spin-wheel-ts/dist/wheel.js",
+      "file": "spin-wheel-ts.js",
+      "fileHash": "39f5226f",
+      "needsInterop": false
+    },
+    "zone.js": {
+      "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
+      "file": "zone__js.js",
+      "fileHash": "bca9f996",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-HLULPEZD": {
+      "file": "chunk-HLULPEZD.js"
+    },
+    "chunk-RKSBK765": {
+      "file": "chunk-RKSBK765.js"
+    },
+    "chunk-SNWZTINX": {
+      "file": "chunk-SNWZTINX.js"
+    },
+    "chunk-WDMUDEB6": {
+      "file": "chunk-WDMUDEB6.js"
+    }
+  }
+}
