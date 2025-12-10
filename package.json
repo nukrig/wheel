@@ -22,6 +22,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/cli": "^20.3.13",
     "@angular/common": "^20.3.0",
     "@angular/compiler": "^20.3.0",
     "@angular/core": "^20.3.0",
@@ -31,7 +32,6 @@
     "rxjs": "~7.8.0",
     "spin-wheel-ts": "^1.0.0-alpha.7",
     "tslib": "^2.3.0",
-    "@angular/cli": "^20.3.5",
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
