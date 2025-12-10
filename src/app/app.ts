@@ -1,9 +1,11 @@
+import { CommonModule } from '@angular/common';
 import { Component, ElementRef, ViewChild, AfterViewInit } from '@angular/core';
 import { Wheel } from 'spin-wheel-ts';
 
 @Component({
   selector: 'app-root',
   standalone: true,
+  imports: [CommonModule],
   templateUrl: 'app.html',
   styleUrl:'app.css'
 })
