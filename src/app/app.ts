@@ -42,11 +42,11 @@ export class App implements AfterViewInit {
     this.resultText = ''
     if (!this.wheel) return;
     const target = Math.floor(Math.random() * this.items.length);
-    this.wheel.spinToItem(target, 5000, true, 5);
+    this.wheel.spinToItem(target, 2000, true, 5);
     console.log('Spinning to:', this.items[target].label);
     setTimeout(() => {
       this.resultText = this.items[target].label
-    }, 5000);
+    }, 2000);
     
   }
 }
