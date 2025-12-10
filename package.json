@@ -37,6 +37,7 @@
   "devDependencies": {
     "@angular/build": "^20.3.5",
     "@angular/compiler-cli": "^20.3.0",
+    "spin-wheel-ts": "^1.0.0-alpha.7",
     "@types/jasmine": "~5.1.0",
     "jasmine-core": "~5.9.0",
     "karma": "~6.4.0",
