@@ -1,0 +1,10 @@
+<div class="wheel-pointer">
+  <img src="arrow-right.png" />
+</div>
+<div class="wheel-wrapper">
+  <div #wheelContainer class="wheel-container"></div>
+  <button class="spin-btn" (click)="spin()">SPIN</button>
+    @if(resultText){
+      <div class="result-text">გილოცავთ. თქვენ მოიგეთ : {{ resultText }}</div>
+    }
+</div>
